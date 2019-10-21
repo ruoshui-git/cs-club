@@ -1,0 +1,28 @@
+bool, True or False
+float, real numbers
+int, integers
+str, strings
+dict, a dictionary of key-value pairs, that act like hash tables
+list, like arrays, but can automatically resize
+range, range of values
+set, a collection of unique things
+tuple, a group of two or more things
+
+
+bool: True, False
+float: 1.2, 3.4, 1.22223552, -56
+int: 1, 0, -3
+str: "I like Python"
+
+dict:
+{
+    name: "Alisha",
+    age: 14,
+    gender: "M",
+}
+
+list: [1, 5, 5, 3, 6, 4, 'haha', 'lala', 'haha', True, True, True]
+range: range(5), range(1, 29)
+set: (1, 5, 3, 6, 4, 'haha', 'lala', True, False)
+tuple: (1, 5, 5, 3, 6, 4, 'haha', 'lala', 'haha', True, True, True)
+
